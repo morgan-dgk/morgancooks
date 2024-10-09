@@ -2,8 +2,8 @@
 title = "Miso Butter Broccoli"
 published = 2024-10-08T21:00:49+11:00
 draft = false 
-author = "Author"
-tags = ["easy"]
+author = "Morgan"
+tags = ["easy", "quick"]
 courses = [""]
 # recipe thumbnail on courses
 featuredimg = ""

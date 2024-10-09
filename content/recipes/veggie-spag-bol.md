@@ -3,8 +3,8 @@ title = "Veggie Spag Bol"
 published = 2024-10-09T21:55:43+11:00
 draft = false 
 author = "Morgan"
-tags = []
-courses = []
+tags = ["easy", "weeknight"]
+courses = ["dinner"]
 # recipe thumbnail on courses
 featuredimg = ""
 +++
