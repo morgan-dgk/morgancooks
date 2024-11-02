@@ -1,15 +1,13 @@
 +++
-title = "Miso Butter Broccoli"
+title = "Miso Butter Broccoli with Simple Sweet Corn Salad"
 published = 2024-10-08T21:00:49+11:00
 draft = false 
 author = "Morgan"
 tags = ["easy", "quick"]
-courses = [""]
+courses = ["dinner"]
 # recipe thumbnail on courses
 featuredimg = ""
 +++
-
-# Miso Butter Broccoli w/ Simple Sweet Corn Salad
 
 ## Ingredients
 
